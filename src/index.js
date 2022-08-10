@@ -145,7 +145,12 @@ client.on('interactionCreate', (interaction) => {
     else if (interaction.options.getString('type')=== 'writing') {
         interaction.reply({content: `You asked for a proof of work idea in ${interaction.options.getString('type')}`+ '\n **Here is a proof of work idea for you in Writing :)**\n\n'+ randomWriting()});
     }
-    
+    else if (interaction.options.getString('type')=== 'all') {
+        interaction.reply({content: `You asked for a proof of work idea in ${interaction.options.getString('type')}`+ '\n **Here is a proof of work idea for you in all domains :)**\n\n'+ "***In Development \n***"+randomDev()+'\n\n'+ "***In Design \n***"+ randomDesign()+'\n\n'+ "***In Copywriting \n***"+randomCopy()+'\n\n'+"***In Marketing \n***"+ randomMarketing()+'\n\n'+"***In Community \n***"+ randomCommunity()+'\n\n'+"***In Writing \n***"+ randomWriting()});
+    }
+    else if(interaction.options.getString('type')=== 'help'){
+        interaction.reply({content: `This bot was made with love from https://fueler.io/`+ '\n **Here is a list of commands you can use**\n\n'+ "***- development ***\n"+ "***- design ***\n"+ "***- copywriting ***\n"+ "***- marketing ***\n"+ "***- community ***\n"+ "***- writing ***\n"+ "***- all ***\n"});
+    }
 })
 
 async function main() {
@@ -160,6 +165,10 @@ async function main() {
                     type: 3,
                     required: true,
                     "choices": [
+                        {
+                            "name": "help",
+                            "value": "help"                            
+                        },
                         {
                             "name": "development",
                             "value": "development"
@@ -183,6 +192,10 @@ async function main() {
                         {
                             "name": "writing",
                             "value": "writing"
+                        },
+                        {
+                            "name": "all",
+                            "value": "all"
                         }
                     ]
                 }
