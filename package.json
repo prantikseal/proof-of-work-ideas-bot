@@ -1,6 +1,7 @@
 {
   "dependencies": {
-    "discord.js": "^14.1.2"
+    "discord.js": "^14.1.2",
+    "node-fetch": "^3.2.10"
   },
   "name": "proof-of-work-ideas-bot",
   "version": "1.0.0",
