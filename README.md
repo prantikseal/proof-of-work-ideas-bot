@@ -21,7 +21,9 @@ The following commands are available:
 - `Development` - For generating ideas around development
 - `all` - For generating one random idea from all categories
 
-If anyone wants help we can return a reply with the commands that are available to be tested by the bot.
+If anyone wants help we have a command for that as well
+
+- `help` - returns a reply with the commands that are available to be tested in the server by the bot.
 
 ## Tech Stack 🛠️
 
