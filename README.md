@@ -19,7 +19,7 @@ If anyone wants help we can return a reply with the commands that are available 
 
 For Tech Stack I have used the following:
 
-![tech-stack.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1660478380880/JFsL9zn-q.png align="center")
+<img src"https://cdn.hashnode.com/res/hashnode/image/upload/v1660478380880/JFsL9zn-q.png">
 
 
 
