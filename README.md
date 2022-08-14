@@ -2,7 +2,7 @@
 
 ## Features ✨
 
-As for the Features the bot would be able to generate Ideas in the following Niche's
+For the Features the bot would be able to generate Ideas in the following Niche's
 
 - Copywriting - For generating ideas around copywriting
 - Community Building - For generating ideas around community building
