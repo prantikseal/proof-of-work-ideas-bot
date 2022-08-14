@@ -2,18 +2,21 @@
 
 A simple discord bot with slash commands in discord and here they are categorized inside slash commands. 
 
+
 ## Features ✨
+To run the bot you need to have a discord bot account and a discord server.
+The following commands are available:
+### `/proof-of-work` `< category >`
 
-For the Features the bot would be able to generate Ideas in the following Niche's
+#### Categories:
 
-- Copywriting - For generating ideas around copywriting
-- Community Building - For generating ideas around community building
-- Writing - For generating ideas around writing
-- Marketing - For generating ideas around marketing
-- Design - For generating ideas around designing and,
-- Development - For generating ideas around development
-
-The will be a command named "all" if someone wants all types of ideas in one place.
+- `Copywriting` - For generating ideas around copywriting
+- `Community Building` - For generating ideas around community building
+- `Writing` - For generating ideas around writing
+- `Marketing` - For generating ideas around marketing
+- `Design` - For generating ideas around designing and,
+- `Development` - For generating ideas around development
+- `all` - For generating one random idea from all categories
 
 If anyone wants help we can return a reply with the commands that are available to be tested by the bot.
 
