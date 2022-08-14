@@ -1,5 +1,7 @@
 # Proof of Work Ideas Bot
 
+A simple discord bot with slash commands in discord and here they are categorized inside slash commands. 
+
 ## Features ✨
 
 For the Features the bot would be able to generate Ideas in the following Niche's
