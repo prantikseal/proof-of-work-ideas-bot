@@ -4,9 +4,10 @@ A simple discord bot with slash commands in discord and here they are categorize
 
 <a href = "https://discord.gg/eWhSSjwVw3"><img src="https://static.wikia.nocookie.net/hololive-fanfiction/images/d/dd/Discord.png/revision/latest?cb=20211021172039"></a>
 
+PS: To run the bot yourself you need to have a discord bot account a discord server and the api to fetch data from fueler.
+
 
 ## Features ✨
-To run the bot you need to have a discord bot account a discord server and the api to fetch data from fueler.
 The following commands are available:
 ### `/proof-of-work` `< category >`
 
