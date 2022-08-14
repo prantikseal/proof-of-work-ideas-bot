@@ -1,10 +1,12 @@
 # Proof of Work Ideas Bot
 
-A simple discord bot with slash commands in discord and here they are categorized inside slash commands. 
+A simple discord bot with slash commands in discord and here they are categorized inside slash commands. To Test the live bot join
+
+<a href = "https://discord.gg/eWhSSjwVw3"><img src="https://static.wikia.nocookie.net/hololive-fanfiction/images/d/dd/Discord.png/revision/latest?cb=20211021172039"></a>
 
 
 ## Features ✨
-To run the bot you need to have a discord bot account and a discord server.
+To run the bot you need to have a discord bot account a discord server and the api to fetch data from fueler.
 The following commands are available:
 ### `/proof-of-work` `< category >`
 
