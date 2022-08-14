@@ -13,7 +13,7 @@ const client = new Client({
 
     ]
 });
-var url="https://pow-ideas.fueler.in/api/pow-idea";    
+var url=process.env.POW_API;    
     const response=await fetch(url);
     const allIdeas = await response.json();
 
