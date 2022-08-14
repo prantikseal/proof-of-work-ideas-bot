@@ -19,7 +19,7 @@ If anyone wants help we can return a reply with the commands that are available 
 
 For Tech Stack I have used the following:
 
-<img src"https://cdn.hashnode.com/res/hashnode/image/upload/v1660478380880/JFsL9zn-q.png">
+<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1660478380880/JFsL9zn-q.png">
 
 
 
