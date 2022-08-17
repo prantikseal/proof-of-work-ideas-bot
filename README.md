@@ -2,7 +2,8 @@
 
 A simple discord bot with slash commands in discord and here they are categorized inside slash commands. To Test the live bot join
 
-<img src= "https://s4.gifyu.com/images/DISCORD-BOT-FOR-GENERATING-PROOF-OF-WORK-IDEAS.gif">
+![DISCORD BOT FOR GENERATING PROOF OF WORK IDEAS](https://user-images.githubusercontent.com/83081442/185133875-e16ef0b2-551d-4f6e-bc06-4313fa2049a9.jpg)
+
 
 <a href = "https://discord.gg/eWhSSjwVw3"><img src="https://static.wikia.nocookie.net/hololive-fanfiction/images/d/dd/Discord.png/revision/latest?cb=20211021172039" border = "0" /></a>
 
