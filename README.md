@@ -1,4 +1,4 @@
-# Proof of Work Ideas Bot
+# Proof of Work Ideas Bot🤖
 
 A simple discord bot with slash commands in discord and here they are categorized inside slash commands. To Test the live bot join
 
