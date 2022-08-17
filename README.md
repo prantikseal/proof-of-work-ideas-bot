@@ -18,6 +18,8 @@ The following commands are available:
 
 #### Categories:
 
+![image](https://user-images.githubusercontent.com/83081442/185144105-cc4156e9-8bcc-48a3-b255-7c762b7b9ae7.png)
+
 - `Copywriting` - For generating ideas around copywriting
 - `Community Building` - For generating ideas around community building
 - `Writing` - For generating ideas around writing
