@@ -16,6 +16,8 @@ Read the whole documentation => <a href="https://famentech.hashnode.dev/i-made-a
 The following commands are available:
 ### `/proof-of-work` `< category >`
 
+<hr>
+
 #### Categories:
 
 ![image](https://user-images.githubusercontent.com/83081442/185144105-cc4156e9-8bcc-48a3-b255-7c762b7b9ae7.png)
